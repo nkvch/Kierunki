@@ -1,0 +1,56 @@
+[
+	{
+		"kod": "103-B-ISP-TL",
+		"nazwa": "Telekomunikacja",
+		"rodzaj": "inz",
+		"specjalnosc": [
+			"Radiokomunikacja i Techniki Multimedialne",
+			"Systemy i Sieci Telekomunikacyjne",
+			"Telekomunikacja i Zarzadzanie w Telekomunikacji"
+		]
+	},
+	{
+		"kod": "103C-ISP-TL",
+		"nazwa": "Telekomunikacja",
+		"rodzaj": "inz",
+		"specjalnosc": [
+			"Techniki Bezprzewodowe i Multimedialne",
+			"Techniki Teleinformatyczne"
+		]
+	},
+	{
+		"kod": "103B-ISP-TL",
+		"nazwa": "Telekomunikacja",
+		"rodzaj": "mgr",
+		"specjalnosc": [
+			"Radiokomunikacja i Techniki Multimedialne",
+			"Telekomunikacja",
+			"Teleinformatyka i Cyberbezpieczenstwo"
+		]
+	},
+	{
+		"kod": "103C-MSP-TL",
+		"nazwa": "Telekomunikacja",
+		"rodzaj": "mgr",
+		"specjalnosc": [
+			"Techniki Bezprzewodowe i Multimedialne",
+			"Teleinformatyka i Cyberbezpieczenstwo"
+		]
+	},
+	{
+		"kod": "103B-ISP-IB",
+		"nazwa": "Inzynieria Biomedyczna",
+		"rodzaj": "inz",
+		"specjalnosc": [
+		]
+	},
+	{
+		"kod": "103C-ISP-IB",
+		"nazwa": "Inzynieria Biomedyczna",
+		"rodzaj": "inz",
+		"specjalnosc": [
+			"Aparatura Medyczna",
+			"Informatyka Biomedyczna"
+		]
+	}
+]
